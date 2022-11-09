@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/drawable/background_category.xml" value="0.1355" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/drawable/category_background.xml" value="0.144" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/drawable/search_background.xml" value="0.144" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/drawable/white_recommended_btn.xml" value="0.1355" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/layout/activity_cart_adapter.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/layout/activity_cart_fragment.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/layout/activity_category.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/layout/activity_category_adapter.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/layout/activity_food.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/layout/activity_food_adapter.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/layout/activity_food_details_fragment.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/layout/activity_intro.xml" value="0.14628623188405798" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/layout/activity_main.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/layout/cart_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/layout/category.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/layout/food_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/layout/fragment_food_details.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/layout/viewholder_category.xml" value="0.4" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/layout/viewholder_recommended.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
