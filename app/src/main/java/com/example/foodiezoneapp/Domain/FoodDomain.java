@@ -8,8 +8,11 @@ public class FoodDomain {
     private int numberInCart;
     private int star;
     private int calories;
+    private int time;
 
-    public FoodDomain(String title, String pic, String description, double fee, int numberInCart, int star, int calories) {
+
+    public FoodDomain(String title, String pic, String description, double fee, int star, int time, int calories, int numberInCart)
+    {
         this.title = title;
         this.pic = pic;
         this.description = description;
@@ -17,6 +20,7 @@ public class FoodDomain {
         this.numberInCart = numberInCart;
         this.star = star;
         this.calories = calories;
+        this.time = time;
     }
 
     public String getTitle() {
@@ -69,6 +73,14 @@ public class FoodDomain {
 
     public int getCalories() {
         return calories;
+    }
+
+    public int getTime() {
+        return time;
+    }
+
+    public void setTime(int time) {
+        this.time = time;
     }
 
     public void setCalories(int calories) {

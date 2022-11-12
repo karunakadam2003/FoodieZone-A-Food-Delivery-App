@@ -4,9 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/drawable/background_category.xml" value="0.1355" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/drawable/cart_background.xml" value="0.1295" />
         <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/drawable/category_background.xml" value="0.144" />
         <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/drawable/search_background.xml" value="0.144" />
         <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/drawable/white_recommended_btn.xml" value="0.1355" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/layout/activity_cart.xml" value="0.21195652173913043" />
         <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/layout/activity_cart_adapter.xml" value="0.21784420289855072" />
         <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/layout/activity_cart_fragment.xml" value="0.21784420289855072" />
         <entry key="..\:/Users/ADMIN/AndroidStudioProjects/FoodieZoneApp/app/src/main/res/layout/activity_category.xml" value="0.21784420289855072" />
